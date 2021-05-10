@@ -1,0 +1,17 @@
+.titulo{
+    color:aqua;
+    background-color: black;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.fotos{
+    display: flexbox;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.despliegue{
+    background-color: grey;
+}
